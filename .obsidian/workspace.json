@@ -11,8 +11,14 @@
             "id": "036cb4a145e37172",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "hugo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/hugo.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -298,8 +304,9 @@
   },
   "active": "036cb4a145e37172",
   "lastOpenFiles": [
-    "notes/attachments/20240207_152917.png",
+    "notes/hugo.md",
     "first_post.md",
+    "notes/attachments/20240207_152917.png",
     "notes/attachments/Pasted image 20240204200703.png",
     "notes/snipaste.md",
     "notes/obsidian.md",

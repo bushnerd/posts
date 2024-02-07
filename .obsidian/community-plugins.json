@@ -28,5 +28,6 @@
   "pane-relief",
   "vim-im-control",
   "obsidian-paste-image-rename",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-image-auto-upload-plugin"
 ]
