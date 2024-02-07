@@ -36,3 +36,6 @@ vercel 访问 github 的 repo 来创建，通过源文件来生成
 知乎
 简书
 ![20240207_152917](https://cdn.jsdelivr.net/gh/bushnerd/blog_cdn/img/20240207_152917.png)
+
+
+![20240207_162457](https://cdn.jsdelivr.net/gh/bushnerd/blog_cdn/img/20240207_162457.png)
