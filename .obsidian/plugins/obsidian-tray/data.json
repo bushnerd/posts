@@ -1,6 +1,0 @@
-{
-  "launchOnStartup": false,
-  "runInBackground": true,
-  "createTrayIcon": true,
-  "toggleWindowFocusHotkey": "F1"
-}
