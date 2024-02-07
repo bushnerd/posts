@@ -1,0 +1,11 @@
+{
+  "vimMode": true,
+  "focusNewTab": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "notes/attachments",
+  "readableLineLength": false,
+  "strictLineBreaks": false
+}

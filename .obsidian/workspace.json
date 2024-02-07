@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "131413e4050b0ee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce67205cf83d24b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036cb4a145e37172",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "first_post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cd9984e1554760f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c3af0e615d3fb8f",
+        "type": "tabs",
+        "dimension": 65.30789245446661,
+        "children": [
+          {
+            "id": "47aac559aa004a82",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbb8947a1e983b07",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39cd7bf50246e63c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "831969f16316fd51",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "first_post.md"
+              }
+            }
+          },
+          {
+            "id": "26d7d557aac95633",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "93393095b1b6f231",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "562d9f93bc7e13f3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ab58aebc25b1341",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3dcb4671fa7a0545",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "8638",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "9775a49eaacacff8",
+        "type": "tabs",
+        "dimension": 17.346053772766695,
+        "children": [
+          {
+            "id": "bebbe2a8b9603e89",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "first_post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0cea1980651180a5",
+        "type": "tabs",
+        "dimension": 17.346053772766695,
+        "children": [
+          {
+            "id": "8d9cefc6a56fc423",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "first_post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ba2f422cea3ea395",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "036cb4a145e37172",
+  "lastOpenFiles": [
+    "notes/attachments/20240207_152917.png",
+    "first_post.md",
+    "notes/attachments/Pasted image 20240204200703.png",
+    "notes/snipaste.md",
+    "notes/obsidian.md",
+    "notes/picgo.md",
+    "blog.md",
+    "notes/attachments/20240207_151127.png",
+    "notes/attachments/20240207_151121.png",
+    "notes/attachments/20240207_151115.png",
+    "notes/attachments/20240207_150909515.png",
+    "notes/attachments/Pasted image 20240207150707.png",
+    "notes/attachments/Snipaste_2024-02-07_12-53-05wewer.png",
+    "notes/outdoor_gear.md",
+    "outdoor.md",
+    "notes/智慧E保.md",
+    "notes/bank_account.md",
+    "notes/890club.md",
+    "notes/info.md",
+    "notes/swimming.md",
+    "notes/stream_hiking.md",
+    "notes/weather.md",
+    "notes/温泉.md",
+    "notes/medical_insurance.md",
+    "notes/outdoor_bulletin.md",
+    "notes/attachments/14fbd9981e9886a286210e671a063a2.jpg",
+    "notes/cmict_reimbursement.md",
+    "notes/txd_insurance.md",
+    "notes/txd_个人所得税.md",
+    "txd.md",
+    "notes/feeding.md",
+    "notes/豆豆日记.md",
+    "notes/job.md",
+    "notes/attachments/Pasted image 20240105075614.png",
+    "notes/Arla.md",
+    "notes/attachments/202306《PS4中文游戏全集16T无重复》 天翼云盘+115网盘下载-Cool Game.mhtml",
+    "notes/attachments/beamoff.zip",
+    "notes/attachments/20231218_221904.srt",
+    "notes/attachments/20231218_221904.m4a",
+    "notes/attachments/1.m4a",
+    "notes/attachments/摇篮曲.m4a",
+    "notes/attachments/解方团队行业复盘.xmind",
+    "notes/attachments/installed-programs.txt",
+    "notes/attachments/5、党员整改承诺及完成情况-涂昕东0830_批注.docx",
+    "Untitled.canvas",
+    "notes/attachments/A-1体验线使用说明.pdf"
+  ]
+}

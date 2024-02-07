@@ -1,0 +1,24 @@
+.n-tree-node.level-1 .n-tree-node-content {
+    color: #d9707d;
+}
+
+.n-tree-node.level-2 .n-tree-node-content {
+    color: #c99b6e;
+}
+
+.n-tree-node.level-3 .n-tree-node-content {
+    color: #c7c16f;
+}
+
+.n-tree-node.level-4 .n-tree-node-content {
+    color: #8cb87a;
+}
+
+.n-tree-node.level-5 .n-tree-node-content {
+    color: #63b1f0;
+}
+
+.n-tree-node.level-6 .n-tree-node-content {
+    color: #a470c2;
+}
+

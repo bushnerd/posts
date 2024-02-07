@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "baseFontSize": 14,
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "bgimage",
+    "obsidian-quiet-outline",
+    "0misc"
+  ],
+  "showViewHeader": false
+}

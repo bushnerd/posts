@@ -1,0 +1,131 @@
+{
+  "strategy": "chinese",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "Tab, Shift+Tab",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "windows": {
+      "windows": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1679223620961
+        }
+      }
+    },
+    "衣服": {
+      "衣服": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676729769609
+        }
+      }
+    },
+    "江西省“十四五”应急体系规划": {
+      "江西省“十四五”应急体系规划": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1678671428940
+        }
+      }
+    },
+    "jiangxi": {
+      "jiangxi": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678671434834
+        }
+      }
+    },
+    "自然灾害": {
+      "自然灾害": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678672286607
+        }
+      }
+    },
+    "安全": {
+      "安全": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678672299880
+        }
+      }
+    },
+    "manifest": {
+      "manifest": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679193752866
+        }
+      }
+    },
+    "chrome": {
+      "chrome": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1679193845359
+        }
+      }
+    },
+    "android": {
+      "android": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679223640411
+        }
+      }
+    },
+    "个人": {
+      "个人": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679294670639
+        }
+      }
+    }
+  }
+}
