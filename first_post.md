@@ -8,6 +8,8 @@ draft = true
 +++
 # 编写
 ![20240207_163316](https://s2.loli.net/2024/02/07/jGgOtiZAQREscfb.png)
+![20240207_164228](https://s2.loli.net/2024/02/07/ycbqM1JiuTtICZd.png)
+![20240207_165053](https://s2.loli.net/2024/02/07/urewVyAEcLd5CW2.png)
 ## obsidian
 obsidian 直接打开 markdown 的 repo，排除掉生成的 html 目录
 [obsidian 目前最完美的免费发布方案 - 渐进式教程 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/8852/13)
